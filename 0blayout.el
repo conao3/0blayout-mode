@@ -51,7 +51,7 @@
 (defgroup 0blayout nil
   "Configuration settings for 0blayout-mode.")
 
-(defvar 0blayout-alist ()
+(defvar 0blayout-alist nil
   "List of the currently defined layouts.")
 
 (defcustom 0blayout-default "default"
